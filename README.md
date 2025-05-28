@@ -72,7 +72,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/Jerryblessed/breathsafe.git
+https://github.com/Jerryblessed/lungcareAI.git
 cd LungCareAI
 
 # Create virtual environment
