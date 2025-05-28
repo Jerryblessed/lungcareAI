@@ -1,9 +1,9 @@
 # 🫁 LungCareAI
 
-[Presentation](https://docs.google.com/presentation/d/1hbeTMh2d3SL4N1DGmcxghpmxNQgUBqrXrL0yUacq3kc/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1hcMToVwCoc9bogkByEDe-1v3LS1tNwB5BnX4Gvo2msA/edit?usp=sharing)
 🔗 **View the project pitch deck**
 
-[Use webapp](https://gibbon-clever-bream.ngrok-free.app/LungCareAI)
+[Use webapp](https://gibbon-clever-bream.ngrok-free.app/lungcareai)
 🌐 **View web site**
 
 # 📈 Architectural diagram
@@ -12,7 +12,7 @@
 
 # ⭐️ Web screen
 
-![LungCareAI Landing Page](https://github.com/Jerryblessed/LungCareAI/blob/main/static/landingpage.png?raw=true)
+![LungCareAI Landing Page](https://github.com/Jerryblessed/lungcareAI/blob/main/static/lungcareai.png?raw=true)
 
 **LungCareAI** is a lightweight Flask application that democratizes sonar AI-powered LLM and lung cancer diagnosis using both deep learning and no-code tools. Built for low-resource settings, the platform enables non-technical health workers to upload CT or histopathology images via a simple web UI for instant predictions and guidance.
 
